@@ -3,7 +3,7 @@
 An AI that plays Keyforge Decks X amount of times to see who has the highest chance of winning according to an AI.
 
 ## Pre Game
-AI Assesses the deck and looks for the percentages of what it might need. It goes over all cards that in the deck and gives an estimation of what the decks best play style is as well as what it's biggest weakness is. As of Age of Ascension I find that decks fall into these catagories:
+AI Assesses the deck and sees what kind of playstyle this deck would favor based on the deck type. It goes over all cards that are in the deck and gives an estimation of what the decks best play style is as well as what it's biggest weakness is. As of Age of Ascension I find that decks fall into these catagories of playstyle:
 
 - *Racing Decks*: These decks are about gaining Aember fast and getting to 3 keys faster then their opponent an example of a deck like this that I own would be [Formulaically Singleminded Saydee](https://keyforge-compendium.com/decks/de0d7ac3-de52-499f-9c4e-96d1209ca6a7)
 
