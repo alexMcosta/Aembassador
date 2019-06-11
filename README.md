@@ -5,6 +5,8 @@ An AI that plays Keyforge Decks X amount of times to see who has the highest cha
 ## Pre Game
 AI Assesses the deck and sees what kind of playstyle this deck would favor based on the deck type. It goes over all cards that are in the deck and gives an estimation of what the decks best play style is as well as what it's biggest weakness is. As of Age of Ascension I find that decks fall into these catagories of playstyle:
 
+### Deck Types
+
 - *Racing Decks*: These decks are about gaining Aember fast and getting to 3 keys faster then their opponent an example of a deck like this that I own would be [Formulaically Singleminded Saydee](https://keyforge-compendium.com/decks/de0d7ac3-de52-499f-9c4e-96d1209ca6a7)
 
 - *Flood Decks*: Are about board presents. They can keep their opponents boards down with fighting while reaping in for big aember gain. these decks seem to favor a wall of creatures. An example of a deck that I have that is like this is [The Animal that Walks for Dance](https://keyforge-compendium.com/decks/26f0c80c-f59a-4db2-a14a-aa6a12db0af4)
