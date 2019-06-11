@@ -9,7 +9,7 @@ AI Assesses the deck and sees what kind of playstyle this deck would favor based
 
 - *Racing Decks*: These decks are about gaining Aember fast and getting to 3 keys faster then their opponent an example of a deck like this that I own would be [Formulaically Singleminded Saydee](https://keyforge-compendium.com/decks/de0d7ac3-de52-499f-9c4e-96d1209ca6a7)
 
-- *Flood Decks*: Are about board presents. They can keep their opponents boards down with fighting while reaping in for big aember gain. these decks seem to favor a wall of creatures. An example of a deck that I have that is like this is [The Animal that Walks for Dance](https://keyforge-compendium.com/decks/26f0c80c-f59a-4db2-a14a-aa6a12db0af4)
+- *Flood Decks*: Are about board presence. They can keep their opponents boards down with fighting while reaping in for big aember gain. these decks seem to favor a wall of creatures. An example of a deck that I have that is like this is [The Animal that Walks for Dance](https://keyforge-compendium.com/decks/26f0c80c-f59a-4db2-a14a-aa6a12db0af4)
 
 - *Control Decks*: These are an interesting breed and was wondering if I should make two categories for this 1 being board control and another being aember control. However I decided on a broad Control Deck favoring both aember and creature control with more of an emphasis on aember control. These decks usually have normal to smaller amount of creatures, normal to small amount of aember gain. But usually are able to keep their opponents board/aember at bay while it creeps to 3 keys. An example of a deck I have like this is [Halfstein, He who Hacks the Library](https://keyforge-compendium.com/decks/7d69a2da-2a28-4576-873d-81633b26a5d2)
 
