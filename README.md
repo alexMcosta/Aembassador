@@ -2,6 +2,12 @@
 
 An AI that plays Keyforge Decks X amount of times to see who has the highest chance of winning according to an AI.
 
+I would like to have it so people upload a deck, the deck gets analyzed and then played 1000 times against registered decks and gets a win ratio based on it being played this 1000 times. However, since the deck is in the system its win ratio and plays will change over time. When the system is not in use it will just start randomly pitting decks against eachother to have an ever evolving ratio and data model.
+
+Every day have the top 100 winning decks of the day and also have a page of the highest performing decks.
+
+Eventually... very far and if eventually.... Create an AI arena battle using Crucible Online technology with the match system and create something like Salty Bets.
+
 ## Pre Game
 AI Assesses the deck and sees what kind of playstyle this deck would favor based on the deck type. It goes over all cards that are in the deck and gives an estimation of what the decks best play style is as well as what it's biggest weakness is. As of Age of Ascension I find that decks fall into these catagories of playstyle:
 
