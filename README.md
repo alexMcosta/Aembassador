@@ -21,6 +21,8 @@ AI Assesses the deck and sees what kind of playstyle this deck would favor based
 
 - *Combo Decks*: Combo decks are more prominent in AoA and are decks that tend to focus on hand size and archive size. These decks enjoy starting slow but can cause huge bursts that can close in fast mid to late game. I could be wrong that this is a deck type that has sprung out of the new set and do not actually have one my self to link here but I have played against a few.
 
+The official pregame part of the application will be the `Analyzer` microservice that will be planned out first in detail and linked here.
+
 ## How the AI plays
 1. Check to see if it can forge a key
 2. Check if it won.
@@ -42,6 +44,8 @@ AI Assesses the deck and sees what kind of playstyle this deck would favor based
     - Look over known combos in hand and board
     - Look at creatures fight/reap/action abilities to see what their max value is.
     - In some instances it might be worth throwing a good card into an enemy card at a loss based on the situation.
+
+The official game part of the application will be called the `Arena` and will be 
 
 
 ## Situation Flags
