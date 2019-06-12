@@ -18,4 +18,4 @@ In order for the Analyzer to work as a whole we will need the following to happe
 
 6. Output the cards 3 point area for play style. Its total points, its combos etc.
 
-[HEAD BACK TO README](github.com/alexMcosta/aembassador/README.md)
+[HEAD BACK TO README](/README.md)
