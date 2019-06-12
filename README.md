@@ -23,7 +23,7 @@ Analyzer assesses the deck and sees what kind of playstyle this deck would favor
 
 - *Combo Decks*: Combo decks are more prominent in AoA and are decks that tend to focus on hand size and archive size. These decks enjoy starting slow but can cause huge bursts that can close in fast mid to late game. I could be wrong that this is a deck type that has sprung out of the new set and do not actually have one my self to link here but I have played against a few.
 
-Eventually there will be a link here that leads to an area that has more information.
+More on the planning of the Anlyzer can be seen here, [Analyzer Planning Notes](github.com/alexMcosta/aembassador/planning/ANALYZER.md)
 
 ## The Arena
 
