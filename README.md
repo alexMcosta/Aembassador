@@ -8,8 +8,10 @@ Every day have the top 100 winning decks of the day and also have a page of the 
 
 Eventually... very far and if eventually.... Create an AI arena battle using Crucible Online technology with the match system and create something like Salty Bets.
 
-## Pre Game
-AI Assesses the deck and sees what kind of playstyle this deck would favor based on the deck type. It goes over all cards that are in the deck and gives an estimation of what the decks best play style is as well as what it's biggest weakness is. As of Age of Ascension I find that decks fall into these catagories of playstyle:
+The Application will consists of four major parts as follows
+
+## The Analyzer
+Analyzer assesses the deck and sees what kind of playstyle this deck would favor based on the deck type. It goes over all cards that are in the deck and gives an estimation of what the decks best play style is as well as what it's biggest weakness is. As of Age of Ascension I find that decks fall into these catagories of playstyle:
 
 ### Deck Types
 
@@ -21,9 +23,13 @@ AI Assesses the deck and sees what kind of playstyle this deck would favor based
 
 - *Combo Decks*: Combo decks are more prominent in AoA and are decks that tend to focus on hand size and archive size. These decks enjoy starting slow but can cause huge bursts that can close in fast mid to late game. I could be wrong that this is a deck type that has sprung out of the new set and do not actually have one my self to link here but I have played against a few.
 
-The official pregame part of the application will be the `Analyzer` microservice that will be planned out first in detail and linked here.
+Eventually there will be a link here that leads to an area that has more information.
 
-## How the AI plays
+## The Arena
+
+The Arena will be the part of the application that handles the matches and will most likely be the more grueling part of this application and might be the part that wil be my undoing. I have a rough guess of how this will go as follows.
+
+### How the AI plays
 1. Check to see if it can forge a key
 2. Check if it won.
 3. Assess opponents situation
@@ -45,8 +51,13 @@ The official pregame part of the application will be the `Analyzer` microservice
     - Look at creatures fight/reap/action abilities to see what their max value is.
     - In some instances it might be worth throwing a good card into an enemy card at a loss based on the situation.
 
-The official game part of the application will be called the `Arena` and will be 
-
-
-## Situation Flags
+### Situation Flags
 Do to the nature of card games, cards can affect the rules of the game. We will need to make flags that alter this games vacuumed reality. Such things as Miasma making a player unable to forge a key regardless of their amount of aember or Archimedes making its neighbors archive when destroyed. Each card that has the ability to change the rules of the game will add its situation flag to a pool that each action will check. Some cards affects will add situation flags to your opponents pool. Such as the cards that make it so if your opponents creature reaps it gets stunned.
+
+I will have a link here to a documentation area that has a more indepth look at Arena
+
+## The Stats
+Stats will be the part that takes the data from the database and crunches the numbers into awesome data like win percentage, etc. It will be the part that people will want to see
+
+## The Face
+This will be the UI that brings it all together!
