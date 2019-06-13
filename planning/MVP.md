@@ -1,9 +1,9 @@
 # MVP ROAD MAP
 
 ## Summary
-Wanting to get to scrum based based product I am going to need to figure out how to get this product to MVP. After some thought, Creating this to be a deck analyzer first might be the best idea.
+Wanting to get to a agile based product development cycle I am going to need to figure out how to get this product to MVP. After some thought, Creating this to be a deck analyzer first might be the best idea.
 
-## Features that should be in the MVP
+## Features in the MVP
 
 1. Deck upload.
 2. Deck type analysis.
@@ -13,7 +13,7 @@ Wanting to get to scrum based based product I am going to need to figure out how
 6. User voted combos.
 7. User rated Combos.
 8. User card rating.
-9. Comments for decks and cards
+9. Comments for decks, cards, and combos.
 
 The decks will get a score based on how good the cards are and how good the combos are and best part it is community ran and voted.
 
