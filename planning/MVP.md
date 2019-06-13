@@ -18,3 +18,5 @@ Wanting to get to a agile based product development cycle I am going to need to 
 The decks will get a score based on how good the cards are and how good the combos are and best part it is community ran and voted.
 
 Once we have this data of combos and user rated we can then build the battle system based of these reports so the AI plays more like the average keyforge player and less like me.
+
+This will make the product user focused and will add to the game and community instead of taking away from it.
