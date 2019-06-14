@@ -33,3 +33,15 @@ This will make the product user focused and will add to the game and community i
 - Title font: https://fonts.google.com/specimen/Montserrat
 - Text font: https://fonts.google.com/specimen/Roboto
 - Use Adsense for self reliance... AKA try to get Aembassa to pay for its self.
+
+## TODO
+[] Splash Page 
+[] Home Page
+[] Login Link
+[] Decks Link
+[] Combos Link
+[] Cards Link
+[] Database Design
+[] Devops Design
+[] Deck Upload
+[] Forums
