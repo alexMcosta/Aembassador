@@ -35,7 +35,9 @@ This will make the product user focused and will add to the game and community i
 - Use Adsense for self reliance... AKA try to get Aembassa to pay for its self.
 
 ## TODO
-[] Splash Page 
+[] Splash Page
+[] Email Account
+[] Social Media Accounts
 [] Home Page
 [] Login Link
 [] Decks Link
@@ -44,4 +46,4 @@ This will make the product user focused and will add to the game and community i
 [] Database Design
 [] Devops Design
 [] Deck Upload
-[] Forums
+[] Forums?
