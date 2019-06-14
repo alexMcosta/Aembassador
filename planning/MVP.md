@@ -32,3 +32,4 @@ This will make the product user focused and will add to the game and community i
 - Name font: https://fonts.google.com/specimen/Bungee+Inline
 - Title font: https://fonts.google.com/specimen/Montserrat
 - Text font: https://fonts.google.com/specimen/Roboto
+- Use Adsense for self reliance... AKA try to get Aembassa to pay for its self.
