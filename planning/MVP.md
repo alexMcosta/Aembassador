@@ -20,3 +20,15 @@ The decks will get a score based on how good the cards are and how good the comb
 Once we have this data of combos and user rated we can then build the battle system based of these reports so the AI plays more like the average keyforge player and less like me.
 
 This will make the product user focused and will add to the game and community instead of taking away from it.
+
+## Technologies and Branding
+- Go, With the Echo framework.
+- Bootstrap for front end work.
+- New Relic for instrumentation.
+- AWS for hosting
+- Color's
+    - https://coolors.co/ef6461-e4b363-e8e9eb-e0dfd5-313638
+- Domain: aembassa.com
+- Name font: https://fonts.google.com/specimen/Bungee+Inline
+- Title font: https://fonts.google.com/specimen/Montserrat
+- Text font: https://fonts.google.com/specimen/Roboto
