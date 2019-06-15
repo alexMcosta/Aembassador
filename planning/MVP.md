@@ -40,6 +40,12 @@ This will make the product user focused and will add to the game and community i
 [X] Splash Page
 [X] Email Account
 [X] Social Media Accounts
+
+## Business for launch
+[] Sign up and implement Adsense
+[] Get a logo on Fiver
+
+### Development for Launch
 [] Home Page
 [] Login Link
 [] Decks Link
