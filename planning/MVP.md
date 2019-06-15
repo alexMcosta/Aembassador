@@ -46,12 +46,12 @@ This will make the product user focused and will add to the game and community i
 - [ ] Sign up and implement Adsense
 
 ### Development for Launch
-- [] Login Link
-- [] Home Page
-- [] Decks Link
-- [] Combos Link
-- [] Cards Link
-- [] Database Design
-- [] Devops Design
-- [] Deck Upload
-- [] Forums?
+- [ ] Login Link
+- [ ] Home Page
+- [ ] Decks Link
+- [ ] Combos Link
+- [ ] Cards Link
+- [ ] Database Design
+- [ ] Devops Design
+- [ ] Deck Upload
+- [ ] Forums?
