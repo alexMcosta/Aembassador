@@ -35,7 +35,7 @@ This will make the product user focused and will add to the game and community i
 - Use Adsense for self reliance... AKA try to get Aembassa to pay for its self.
 
 ## TODO
-[] Splash Page
+[X] Splash Page
 [] Email Account
 [] Social Media Accounts
 [] Home Page
