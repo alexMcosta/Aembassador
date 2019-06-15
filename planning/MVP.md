@@ -3,6 +3,8 @@
 ## Summary
 Wanting to get to a agile based product development cycle I am going to need to figure out how to get this product to MVP. After some thought, Creating this to be a deck analyzer first might be the best idea.
 
+## Current planning phase ends July 1st
+
 ## Features in the MVP
 
 1. Deck upload.
@@ -41,17 +43,17 @@ This will make the product user focused and will add to the game and community i
 - [X] Splash Page
 - [X] Social Media Accounts
 
-## Business for launch
+### Business for launch
 - [ ] Get a logo on Fiver
 - [ ] Sign up and implement Adsense
 
 ### Development for Launch
-- [ ] Login Link
-- [ ] Home Page
-- [ ] Decks Link
-- [ ] Combos Link
-- [ ] Cards Link
-- [ ] Database Design
-- [ ] Devops Design
-- [ ] Deck Upload
-- [ ] Forums?
+- [ ] [Home Page](/HOME.md)
+- [ ] [Login Page](/LOGIN.md)
+- [ ] [Decks Page](/DECKS.md)
+- [ ] [Combos Page](/COMBOS.md)
+- [ ] [Cards Page](/CARDS.md)
+- [ ] [Database Design](/DATABASE.md)
+- [ ] [Devops Design](/DEVOPS.md)
+- [ ] [Deck Upload](/UPLOAD.md)
+- [ ] [Forums](/FORUMS.md)
