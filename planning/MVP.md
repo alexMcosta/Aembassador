@@ -36,7 +36,7 @@ This will make the product user focused and will add to the game and community i
 
 ## TODO
 [X] Splash Page
-[] Email Account
+[X] Email Account
 [] Social Media Accounts
 [] Home Page
 [] Login Link
