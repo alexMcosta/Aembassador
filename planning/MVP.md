@@ -42,8 +42,8 @@ This will make the product user focused and will add to the game and community i
 - [X] Social Media Accounts
 
 ## Business for launch
-- [] Get a logo on Fiver
-- [] Sign up and implement Adsense
+- [O] Get a logo on Fiver
+- [O] Sign up and implement Adsense
 
 ### Development for Launch
 - [] Login Link
