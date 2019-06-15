@@ -36,22 +36,22 @@ This will make the product user focused and will add to the game and community i
 
 ## TODO
 ### Pre Product
-[X] Get Domain
-[X] Splash Page
-[X] Email Account
-[X] Social Media Accounts
+- [X] Get Domain
+- [X] Email Account
+- [X] Splash Page
+- [X] Social Media Accounts
 
 ## Business for launch
-[] Sign up and implement Adsense
-[] Get a logo on Fiver
+- [] Get a logo on Fiver
+- [] Sign up and implement Adsense
 
 ### Development for Launch
-[] Home Page
-[] Login Link
-[] Decks Link
-[] Combos Link
-[] Cards Link
-[] Database Design
-[] Devops Design
-[] Deck Upload
-[] Forums?
+- [] Login Link
+- [] Home Page
+- [] Decks Link
+- [] Combos Link
+- [] Cards Link
+- [] Database Design
+- [] Devops Design
+- [] Deck Upload
+- [] Forums?
