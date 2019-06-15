@@ -48,7 +48,7 @@ This will make the product user focused and will add to the game and community i
 - [ ] Sign up and implement Adsense
 
 ### Development for Launch
-- [ ] [Home Page](/HOME.md)
+- [ ] [Home Page](HOME.md)
 - [ ] [Login Page](/LOGIN.md)
 - [ ] [Decks Page](/DECKS.md)
 - [ ] [Combos Page](/COMBOS.md)
